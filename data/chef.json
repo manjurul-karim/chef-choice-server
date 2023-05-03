@@ -8,22 +8,52 @@
     "likes": 5000,
     "recipes": [
       {
-        "recipeName": "Classic Caesar Salad",
+        "name": "Chingri Macher Malaikari",
         "ingredients": [
-          "romaine lettuce",
-          "croutons",
-          "Parmesan cheese",
-          "anchovy paste",
-          "garlic"
+          "Prawns",
+          "Coconut milk",
+          "Ginger",
+          "Garlic",
+          "Green chili"
+        ],
+        "instructions": [
+          "Marinate the prawns with salt and turmeric",
+          "Saute ginger, garlic, and green chili in oil",
+          "Add prawns and cook until pink",
+          "Add coconut milk and simmer for 10-15 minutes",
+          "Serve hot with rice"
         ]
       },
       {
-        "recipeName": "Beef Bourguignon",
-        "ingredients": ["beef chuck", "bacon", "carrots", "onion", "red wine"]
+        "name": "Aloo Posto",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Turmeric",
+          "Green chili"
+        ],
+        "instructions": [
+          "Peel and chop the potatoes into small pieces",
+          "Grind the poppy seeds into a fine paste",
+          "Heat mustard oil in a pan and add turmeric",
+          "Add the potatoes and fry until slightly brown",
+          "Add the poppy seed paste and green chili",
+          "Cook for 10-15 minutes, stirring occasionally",
+          "Serve hot with rice"
+        ]
       },
       {
-        "recipeName": "Lemon Tart",
-        "ingredients": ["butter", "sugar", "lemon", "eggs", "flour"]
+        "name": "Mutton Kosha",
+        "ingredients": ["Mutton", "Onions", "Tomatoes", "Ginger", "Garlic"],
+        "instructions": [
+          "Marinate the mutton with yogurt, turmeric, and salt",
+          "Heat oil in a pressure cooker and add sliced onions",
+          "Add ginger and garlic and cook until brown",
+          "Add chopped tomatoes and cook until soft",
+          "Add the marinated mutton and pressure cook for 15-20 minutes",
+          "Serve hot with paratha"
+        ]
       }
     ],
     "shortBio": "Samantha Lee is a classically trained chef with over 10 years of experience in the industry. She specializes in French cuisine and is known for her elegant plating and use of seasonal ingredients."
@@ -37,28 +67,58 @@
     "likes": 3800,
     "recipes": [
       {
-        "recipeName": "Fish Tacos",
+        "name": "Bhapa Ilish",
         "ingredients": [
-          "tilapia",
-          "flour tortillas",
-          "cabbage",
-          "lime",
-          "sour cream"
+          "Hilsa fish",
+          "Mustard paste",
+          "Coconut",
+          "Green chili",
+          "Turmeric"
+        ],
+        "instructions": [
+          "Clean and marinate the hilsa fish with turmeric and salt",
+          "Mix mustard paste, coconut, and green chili in a bowl",
+          "Place the fish on a plate and cover it with the mustard paste mixture",
+          "Steam for 15-20 minutes",
+          "Serve hot with rice"
         ]
       },
       {
-        "recipeName": "Chicken Fajitas",
+        "name": "Cholar Dal",
         "ingredients": [
-          "chicken breast",
-          "bell pepper",
-          "onion",
-          "cumin",
-          "paprika"
+          "Chana dal",
+          "Coconut",
+          "Ginger",
+          "Cumin seeds",
+          "Bay leaf"
+        ],
+        "instructions": [
+          "Soak the chana dal for 30 minutes",
+          "Boil the dal with turmeric and salt",
+          "Heat oil in a pan and add bay leaf, cumin seeds, and chopped ginger",
+          "Add the boiled dal and cook for 10-15 minutes",
+          "Add coconut and cook for another 5 minutes",
+          "Serve hot with luchi"
         ]
       },
       {
-        "recipeName": "Guacamole",
-        "ingredients": ["avocado", "tomato", "onion", "cilantro", "lime"]
+        "name": "Dhokar Dalna",
+        "ingredients": [
+          "Chana dal",
+          "Potatoes",
+          "Ginger paste",
+          "Cumin powder",
+          "Garam masala"
+        ],
+        "instructions": [
+          "Soak chana dal for 2-3 hours and grind into a smooth paste",
+          "Mix the dal paste with ginger paste, cumin powder, and garam masala",
+          "Shape into small cakes and fry until golden brown",
+          "Boil potatoes and cut into small pieces",
+          "Heat oil in a pan and add chopped onions",
+          "Add the fried cakes and potatoes and cook for 10-15 minutes",
+          "Serve hot with rice"
+        ]
       }
     ],
     "shortBio": "Juan Martinez is a chef with a passion for Mexican cuisine. He has worked in several restaurants in both Mexico and the United States, and is known for his flavorful and authentic dishes."
@@ -72,22 +132,45 @@
     "likes": 3200,
     "recipes": [
       {
-        "recipeName": "Baked Salmon",
-        "ingredients": ["salmon fillet", "lemon", "butter", "dill", "garlic"]
-      },
-      {
-        "recipeName": "Grilled Chicken Salad",
+        "name": "Shorshe Bata Maach",
         "ingredients": [
-          "chicken breast",
-          "mixed greens",
-          "cucumber",
-          "tomato",
-          "balsamic vinaigrette"
+          "Fish",
+          "Mustard seeds",
+          "Turmeric",
+          "Green chili",
+          "Salt"
+        ],
+        "instructions": [
+          "Marinate the fish with turmeric and salt",
+          "Grind the mustard seeds and green chili into a paste",
+          "Heat mustard oil in a pan and add the mustard paste",
+          "Add the marinated fish and cook for 10-15 minutes",
+          "Serve hot with steamed rice"
         ]
       },
       {
-        "recipeName": "Chocolate Cake",
-        "ingredients": ["flour", "sugar", "cocoa powder", "baking soda", "eggs"]
+        "name": "Chholar Ghugni",
+        "ingredients": ["Yellow peas", "Potatoes", "Ginger", "Coconut", "Ghee"],
+        "instructions": [
+          "Soak yellow peas for 4-5 hours",
+          "Boil the peas with salt and turmeric until soft",
+          "Cut potatoes into small pieces and fry until slightly brown",
+          "Add chopped ginger and grated coconut and cook for 2-3 minutes",
+          "Add the boiled peas and cook for 10-15 minutes",
+          "Add ghee and serve hot"
+        ]
+      },
+      {
+        "name": "Macher Jhol",
+        "ingredients": ["Fish", "Tomatoes", "Onions", "Ginger", "Cumin powder"],
+        "instructions": [
+          "Marinate the fish with turmeric and salt",
+          "Heat oil in a pan and add sliced onions and chopped ginger",
+          "Add chopped tomatoes and cook until soft",
+          "Add cumin powder and water",
+          "Add the marinated fish and cook for 10-15 minutes",
+          "Serve hot with steamed rice"
+        ]
       }
     ],
     "shortBio": "Emily Chang is a chef with a background in pastry. She has worked in several high-end restaurants and is known for her elegant and delicious desserts."
@@ -101,38 +184,52 @@
     "likes": 2500,
     "recipes": [
       {
-        "recipeName": "Pho",
+        "name": "Shukto",
         "ingredients": [
-          "beef broth",
-          "rice noodles",
-          "sirloin steak",
-          "bean sprouts",
-          "Thai basil"
+          "Bitter gourd",
+          "Potatoes",
+          "Eggplant",
+          "Green banana",
+          "Radish"
+        ],
+        "instructions": [
+          "Cut all the vegetables into small pieces",
+          "Heat oil in a pan and add panch phoron (Bengali five-spice mix)",
+          "Add the vegetables and sauté for 5-7 minutes",
+          "Add salt and turmeric and cook for 10-15 minutes",
+          "Serve hot with steamed rice"
         ]
       },
       {
-        "recipeName": "Banh Mi Sandwich",
+        "name": "Murgir Jhol",
         "ingredients": [
-          "baguette",
-          "pork belly",
-          "carrots",
-          "cilantro",
-          "jalapeno"
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Green chili",
+          "Ginger"
+        ],
+        "instructions": [
+          "Cut chicken into small pieces",
+          "Heat oil in a pan and add sliced onions and chopped ginger",
+          "Add chopped tomatoes and green chili and cook until soft",
+          "Add the chicken and cook for 10-15 minutes",
+          "Add water and salt and simmer for another 10-15 minutes",
+          "Serve hot with steamed rice"
         ]
       },
       {
-        "recipeName": "Spring Rolls",
-        "ingredients": [
-          "rice paper",
-          "shrimp",
-          "vermicelli noodles",
-          "lettuce",
-          "mint"
+        "name": "Mishti Doi",
+        "ingredients": ["Milk", "Yogurt", "Sugar", "Cardamom", "Saffron"],
+        "instructions": [
+          "Boil milk in a pan and simmer for 10-15 minutes",
+          "Add sugar and cardamom and stir well",
+          "Let it cool down to room temperature",
+          "Add yogurt and mix well",
+          "Transfer to a clay pot and sprinkle saffron on top",
+          "Cover with a lid and leave it to set for 6-8 hours",
+          "Serve chilled"
         ]
-      },
-      {
-        "recipeName": "Mango Sticky Rice",
-        "ingredients": ["sticky rice", "coconut milk", "mango", "sugar", "salt"]
       }
     ],
     "shortBio": "Tiffany Nguyen is a chef with a passion for Vietnamese cuisine. She grew up cooking with her family and has worked in several Vietnamese restaurants, where she has developed a unique and delicious style of cooking."
@@ -146,27 +243,50 @@
     "likes": 2000,
     "recipes": [
       {
-        "recipeName": "Southern Fried Chicken",
+        "name": "Lau Ghanto",
         "ingredients": [
-          "chicken thighs",
-          "buttermilk",
-          "flour",
-          "paprika",
-          "garlic powder"
+          "Bottle gourd",
+          "Potatoes",
+          "Panch phoron",
+          "Ginger",
+          "Green chili"
+        ],
+        "instructions": [
+          "Peel and chop the bottle gourd and potatoes into small pieces",
+          "Heat oil in a pan and add panch phoron",
+          "Add chopped ginger and green chili and sauté for a minute",
+          "Add the chopped vegetables and cook for 5-7 minutes",
+          "Add salt, turmeric and water and simmer until the vegetables are cooked",
+          "Serve hot with steamed rice"
         ]
       },
       {
-        "recipeName": "Mac and Cheese",
-        "ingredients": ["macaroni", "cheddar cheese", "milk", "butter", "flour"]
+        "name": "Bhapa Chingri",
+        "ingredients": [
+          "Prawns",
+          "Mustard paste",
+          "Coconut milk",
+          "Green chili",
+          "Turmeric"
+        ],
+        "instructions": [
+          "Marinate the prawns with salt and turmeric",
+          "Mix mustard paste and coconut milk in a bowl",
+          "Add green chili and salt to the mixture",
+          "Place the marinated prawns in a bowl and pour the mustard-coconut mixture on top",
+          "Cover the bowl with foil and steam for 15-20 minutes",
+          "Serve hot with steamed rice"
+        ]
       },
       {
-        "recipeName": "Collard Greens",
-        "ingredients": [
-          "collard greens",
-          "bacon",
-          "onion",
-          "chicken broth",
-          "vinegar"
+        "name": "Payesh",
+        "ingredients": ["Rice", "Milk", "Sugar", "Cardamom", "Raisins"],
+        "instructions": [
+          "Boil rice in water until half-cooked",
+          "Drain the water and add milk to the rice",
+          "Add sugar and cardamom and simmer until the rice is fully cooked and the milk is thickened",
+          "Add raisins and cook for another 2-3 minutes",
+          "Serve hot or chilled"
         ]
       }
     ],
@@ -181,33 +301,48 @@
     "likes": 1500,
     "recipes": [
       {
-        "recipeName": "Gazpacho",
+        "name": "Kosha Mangsho",
         "ingredients": [
-          "tomatoes",
-          "cucumber",
-          "red bell pepper",
-          "garlic",
-          "olive oil"
+          "Mutton",
+          "Onions",
+          "Tomatoes",
+          "Ginger-garlic paste",
+          "Cumin powder"
+        ],
+        "instructions": [
+          "Cut mutton into small pieces",
+          "Heat oil in a pan and add sliced onions",
+          "Add ginger-garlic paste and cook until the onions turn golden brown",
+          "Add chopped tomatoes and cook until soft",
+          "Add cumin powder and water and cook until the mutton is tender",
+          "Serve hot with steamed rice or paratha"
         ]
       },
       {
-        "recipeName": "Paella",
-        "ingredients": [
-          "chicken thighs",
-          "chorizo",
-          "shrimp",
-          "rice",
-          "saffron"
+        "name": "Luchi",
+        "ingredients": ["All-purpose flour", "Oil", "Salt", "Sugar", "Water"],
+        "instructions": [
+          "Mix flour, salt, sugar and oil in a bowl",
+          "Add water slowly and knead into a soft dough",
+          "Cover with a damp cloth and let it rest for 30 minutes",
+          "Divide the dough into small balls",
+          "Roll each ball into a small circle",
+          "Heat oil in a pan and fry the luchis until puffed and golden brown",
+          "Serve hot with aloo dum or chholar dal"
         ]
       },
       {
-        "recipeName": "Flan",
-        "ingredients": [
-          "sugar",
-          "milk",
-          "eggs",
-          "vanilla extract",
-          "lemon zest"
+        "name": "Rasgulla",
+        "ingredients": ["Milk", "Lemon juice", "Sugar", "Water", "Cardamom"],
+        "instructions": [
+          "Boil milk in a pan and add lemon juice to curdle the milk",
+          "Strain the curdled milk using a muslin cloth",
+          "Wash the paneer with cold water to remove the sour taste",
+          "Knead the paneer until smooth",
+          "Make small balls out of the paneer and keep aside",
+          "Boil sugar and water in a pan",
+          "Add cardamom and the paneer balls and cook for 10-15 minutes",
+          "Let it cool down and serve chilled"
         ]
       }
     ],
