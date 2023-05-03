@@ -4,7 +4,8 @@
     "chefPicture": "https://i.ibb.co/Jcc7tkq/chef-1.jpg",
     "chefName": "Samantha Lee",
     "yearsOfExperience": 10,
-    "numberOfRecipes": 3,
+    "numberOfRecipes": 23,
+    "likes": 5000,
     "recipes": [
       {
         "recipeName": "Classic Caesar Salad",
@@ -32,7 +33,8 @@
     "chefPicture": "https://i.ibb.co/wR96WjC/chef-2.png",
     "chefName": "Juan Martinez",
     "yearsOfExperience": 5,
-    "numberOfRecipes": 3,
+    "numberOfRecipes": 20,
+    "likes": 3800,
     "recipes": [
       {
         "recipeName": "Fish Tacos",
@@ -66,7 +68,8 @@
     "chefPicture": "https://i.ibb.co/X7bTBxT/chef-3.png",
     "chefName": "Emily Chang",
     "yearsOfExperience": 8,
-    "numberOfRecipes": 3,
+    "numberOfRecipes": 18,
+    "likes": 3200,
     "recipes": [
       {
         "recipeName": "Baked Salmon",
@@ -94,7 +97,8 @@
     "chefPicture": "https://i.ibb.co/SKXvgK8/chef-4.jpeg",
     "chefName": "Tiffany Nguyen",
     "yearsOfExperience": 7,
-    "numberOfRecipes": 4,
+    "numberOfRecipes": 12,
+    "likes": 2500,
     "recipes": [
       {
         "recipeName": "Pho",
@@ -138,7 +142,8 @@
     "chefPicture": "https://i.ibb.co/tLW0T3h/chef-5.jpg",
     "chefName": "Andre Williams",
     "yearsOfExperience": 12,
-    "numberOfRecipes": 3,
+    "numberOfRecipes": 15,
+    "likes": 2000,
     "recipes": [
       {
         "recipeName": "Southern Fried Chicken",
@@ -172,7 +177,8 @@
     "chefPicture": "https://i.ibb.co/mhzjgWw/chef-6.jpg",
     "chefName": "Maria Hernandez",
     "yearsOfExperience": 9,
-    "numberOfRecipes": 3,
+    "numberOfRecipes": 10,
+    "likes": 1500,
     "recipes": [
       {
         "recipeName": "Gazpacho",
